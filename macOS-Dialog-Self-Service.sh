@@ -22,6 +22,7 @@ show_install_progress() {
         --icon "/Library/Application Support/Dialog/Dialog.png" \
         --button1disabled \
         --progress 4 \
+        --position bottomright \
         --commandfile "$dialogCommandFile" \
         --moveable --ontop --mini &
 
