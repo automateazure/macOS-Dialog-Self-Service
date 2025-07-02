@@ -1,6 +1,6 @@
 # SwiftDialog Installation Progress Script
 
-This script provides a user-friendly installation progress window using **swiftDialog** while **Installomator** installs an application. It is designed for use with **Jamf Pro**, where the app label is passed as a parameter.
+This script provides a user-friendly installation progress window using **swiftDialog** while **Installomator** installs an application. It is designed for use with **Jamf Pro Self Service**, where the app label is passed as a parameter.
 
 ---
 
